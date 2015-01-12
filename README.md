@@ -1,4 +1,3 @@
 # cida_jenkins
 
-TODO: Enter the cookbook description here.
-
+Base installation for a Jenkins machine.
