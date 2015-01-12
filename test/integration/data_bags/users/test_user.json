@@ -1,0 +1,7 @@
+{
+    "id" : "test_user",
+    "full_name" : "Test User",
+    "email" : "do_not_exist@usgs.gov",
+    "password" : "test_pass",
+    "public_keys" : ["ssh-rsa AAAAAAA"]
+}

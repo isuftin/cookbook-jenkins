@@ -1,0 +1,4 @@
+{
+    "id" : "chef-jenkins-public",
+    "public_key" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQC7gAHYbgrSQ3Kac2Xhhi9vAQnscoRkD3QQiuIgujX0Wf06w4ZQJYsIUUFwH3W/VV17BcqBLBUl+QUM1T6/pihJf8rhpF3wldRBMJMwVx0UeYBPinaC6MfEnR3HxqSYx41HKNV5LFRfa92RKY7v10azYCF1QZf2JHsB0LFFXcmmnw== chef-jenkins@chef.owicloud.org"
+}

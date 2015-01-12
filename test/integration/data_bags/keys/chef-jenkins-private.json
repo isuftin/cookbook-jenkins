@@ -1,0 +1,9 @@
+{
+  "id": "chef-jenkins-private",
+  "private_key": {
+    "encrypted_data": "uJXNzMoZMp0VF+duC8QnOmTRHLN0qPlR9n7y/05ttXn8eYP0wqRtejp6Oqyp\njDYRKllcjKITkpyDZYhywwyGd2NBurtg0H+MqKqCCc+Bji47mu/Nz8UH3CIT\nEAa/nOp+hv9sdDvxzPVe3EJN4uVkTyppJQNtnm5MAsSap9pQMfNHsnqVj1kS\nIsCRmMzqyHYXLccBepL2UhdN4pYgwEaM2LhtpXb0Bz+HqkWC19aDzo40Y0fw\nzpTW2BEiekcbayWkadXFPE99b0ZSdvuXEvbQuO4CLdiHTI5lEjB6NN6TIj/x\ng+UpLe5GckvxgHGhInGUamLgePlsrYQLMkg8poBJ8OGH5m5eCUMAe2Tx0yDo\noT7t/v+4IAfw5NLLnxZFsZQ44GF5slCJp62JC7a7NrahWDUSE8HWJoCtA+Cg\nMssgZ/BhXoSFs0MG5zs6EcajyOdh8stI0Gk8pOWZ5XEZffAOLiUrW8vynRyL\nJcvIFVcaJfFEFFU1YmjmFzzJDgQrUDHYhgb90QxBGzENeENuKfXmfqKQja6S\ncm4gq1eFWm8Sw63ng6kEXCg2RzcJoxvk+VD8oDOeFeP49gEYUIb6WbU+Tzqc\ntpBz7FI3g6LxK48I+nuHr1hlPDH/egbaYjL62W10LPFsh3EjW1vPZpfPA4Nt\nv6YVxnXMyOztr6IOO3hM11wncO0UkzX8gBsaqXNQD8wCPDQFPQaGW8gUJNZN\nAfrmTDioq2hxQngtmDFXBjflxnlkYIbMnNbdgWOaQqinz8s+qza1TxQxNyr7\n9wRFBUiiz4Y33LCT4JI2h9tzBBPE/i5svWGp1aJvxYCK5xJxw8L6BTqWtA8Y\n0CZOfzY+C6jyFOSoUqKi9b0ICRq8WjwbpRDuhcxq6CP2FJiyVlAhnqEMnmES\niQWT8jxJte/HG8NePip0umMOdAfyXzIY2S3QX+XGqwYNESoQkcXun3NA61Xv\n8HLrZnOnrkkSC3hSzTe071YfuMeBF/c37dYX59kDGejGkGM8zUjbfagyavuh\n7UjN6onAy9E9hFV0WL/OnnOemfN9/bAP9ETMcV2mugGte+oAKZDAKxq3SRl+\nTUIz5rB/cf7N5uSh1JpsIFq9ISVx9BXSuxcGZE6fIW/kVUt+fnu0oFNBGSdf\nWsXLbwz0UvR3OUjuh+qQW4CedRqA33nj2ZXiVB2kEBASrsd11qrtl/LxiRiq\nWOfAuIRuWrUvWACnyjSu554jyuV/D5gNMh01bw==\n",
+    "iv": "QoaDxHVjux8m6uuJiSnnMQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
