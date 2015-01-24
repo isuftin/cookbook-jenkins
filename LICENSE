@@ -1,29 +1,3 @@
-CIDA Jenkins Cookbook
-=================================
-Installs the [Jenkins continuous integration server](http://jenkins-ci.org/). 
-
-Requirements
-------------
-### Platforms
-- CentOS 6.6
-
-### Cookbooks
-- [Jenkins](https://supermarket.chef.io/cookbooks/jenkins)
-
-Attributes
-----------
-See other available attributes at https://supermarket.chef.io/cookbooks/jenkins
-
-Usage
------
-Simply include the default recipe (cida_jenkins::default)
- 
-Authors
--------
-- Author:: Ivan Suftin (<isuftin@usgs.gov>)
-
-License
--------
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
