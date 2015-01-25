@@ -18,31 +18,13 @@ platforms:
       provider: vmware_fusion
 
 suites:
-  # - name: default
-  #   driver:
-  #     network:
-  #     - ["private_network", {ip: "10.0.0.21"}]
-  #   run_list:
-  #     - recipe[jenkins::java]
-  #     - recipe[jenkins::master]
-  #     - recipe[cida_jenkins::default]
-  #   data_bags_path: "test/integration/data_bags"
-  #   encrypted_data_bag_secret_key_path: "test/integration/default/encrypted_data_bag_secret"
-  #   attributes:
   - name: default
     driver:
       network:
       - ["private_network", {ip: "10.0.0.21"}]
     run_list:
       - recipe[jenkins::java]
-      - recipe[jenkins::master]
       - recipe[cida_jenkins::default]
     data_bags_path: "test/integration/data_bags"
     encrypted_data_bag_secret_key_path: "test/integration/default/encrypted_data_bag_secret"
-    # attributes:
- #      jenkins:
- #        master:
- #          port: "8081"
-                
-        
     
