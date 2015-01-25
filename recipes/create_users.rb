@@ -4,7 +4,6 @@
 # Author: Ivan Suftin < isuftin@usgs.gov >
 #
 # Description: 
-include_recipe "jenkins::master"
 
 users = data_bag('users')
 
