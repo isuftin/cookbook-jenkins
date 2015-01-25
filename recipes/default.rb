@@ -7,6 +7,8 @@
 
 include_recipe 'jenkins::master'
 
+include_recipe 'cida_jenkins::jenkins_config_wrapper'
+
 include_recipe 'cida_jenkins::create_chef_user'
 
 include_recipe 'cida_jenkins::create_users'
