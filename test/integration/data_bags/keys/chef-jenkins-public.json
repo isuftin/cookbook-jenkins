@@ -1,4 +1,4 @@
 {
     "id" : "chef-jenkins-public",
-    "public_key" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQC7gAHYbgrSQ3Kac2Xhhi9vAQnscoRkD3QQiuIgujX0Wf06w4ZQJYsIUUFwH3W/VV17BcqBLBUl+QUM1T6/pihJf8rhpF3wldRBMJMwVx0UeYBPinaC6MfEnR3HxqSYx41HKNV5LFRfa92RKY7v10azYCF1QZf2JHsB0LFFXcmmnw== chef-jenkins@chef.owicloud.org"
+    "public_key" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQDJx+1pKX0G0FH3ztJiGF4pCaRQ8iL3W1vv079VD73g9BTF8zmDxFw6Tw6IhEK+wUuYl0t+Fe4/1I8o6FU596HR4T6NE+Dp+zBU+bSUlk/Jk+84+UWHWgQ+Q1T7qOXnHemyyew4DjmjV8gGhTutl8My8Pi1shEvQa4abpQIENG9zQ== chef-jenkins@chef.owicloud.org"
 }
