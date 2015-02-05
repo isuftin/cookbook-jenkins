@@ -27,4 +27,6 @@ suites:
       - recipe[cida_jenkins::default]
     data_bags_path: "test/integration/data_bags"
     encrypted_data_bag_secret_key_path: "test/integration/default/encrypted_data_bag_secret"
-    
+    attributes:
+      maven:
+        setup_bin: true
